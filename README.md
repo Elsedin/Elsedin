@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elsedin</h1>
-<h3 align="center">A passionate frontend developer from Bosnia and Hercegovina</h3>
+<h3 align="center">A passionate software developer from Bosnia and Hercegovina</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 
