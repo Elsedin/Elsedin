@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elsedin</h1>
 <h3 align="center">A passionate software developer from Bosnia and Hercegovina</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
+<img align="right" alt="Coding" width="400" src="https://effectivesoftwaredesign.files.wordpress.com/2011/08/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsedin&label=Profile%20views&color=0e75b6&style=flat" alt="elsedin" /> </p>
 
